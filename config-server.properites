@@ -1,0 +1,14 @@
+spring.profiles=local
+msaconfig.greeting=welcome to local server
+
+spring.profiles=dev
+msaconfig.greeting=welcome to dev server
+
+spring.profiles=test
+msaconfig.greeting=welcome to test server
+
+spring.profiles=staging
+msaconfig.greeting=welcome to staging server
+
+spring.profiles=real
+msaconfig.greeting=welcome to real server
